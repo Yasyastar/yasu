@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Lora:ital,wght@1,700&family=Pacifico&family=Press+Start+2P&family=Rampart+One&family=Rubik+Dirt&family=Rubik+Moonrocks&display=swap');
+body{
+	background-color: 	blueviolet;
+}
+P{font-size: 50px;
+	color: darksalmon	;
+}
+.ex1{font-family: cursive
+}
+.ex2{font-weight: 700;
+	font-style: italic;
+
+}
+.ex6{
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+	text-decoration-color: yellow;
+}
+.ex3{
+	text-decoration: underline;
+	text-decoration-style: double;
+	text-underline-position: under;
+	text-decoration-color: limegreen;
+}
+.ex5{
+	text-shadow: 5px 5px black;
+}
+.ex4{
+	text-shadow: 3px 3px greenyellow;
+}
+.ex7{
+	text-shadow: 4px 4px plum;
+}
+.ex8{
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-underline-position: under;
+	text-decoration-color: red;
+}
+ .ex8{font-family:
+	font-family: 'Amatic SC', cursive;
+font-family: 'Lora', serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rampart One', cursive;
+font-family: 'Rubik Dirt', cursive;
+font-family: 'Rubik Moonrocks', cursive;}
+
+ .ex10{font-family:
+	font-family: 'Amatic SC', cursive;
+font-family: 'Lora', serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rampart One', cursive;
+font-family: 'Rubik Dirt', cursive;
+font-family: 'Rubik Moonrocks', cursive;}
+
+.ex10{
+	text-shadow: 5px 5px yellow;
+}
+
+.ex11{
+	text-decoration: underline;
+	text-decoration-style: dotted;
+	text-underline-position: under;
+	text-decoration-color: darkred;
+}
+.ex11{font-family:
+	font-family: 'Amatic SC', cursive;
+font-family: 'Lora', serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rampart One', cursive;
+font-family: 'Rubik Dirt', cursive;
+font-family: 'Rubik Moonrocks', cursive;}
+
+.ex11{
+	text-shadow: 5px 5px rgb(127,255,212);
+} 
+
+.ex12{
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-underline-position: under;
+	text-decoration-color: greenyellow;
+}
+.ex12{font-family:
+	font-family: 'Amatic SC', cursive;
+font-family: 'Lora', serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rampart One', cursive;
+font-family: 'Rubik Dirt', cursive;
+font-family: 'Rubik Moonrocks', cursive;}

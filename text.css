@@ -1,0 +1,26 @@
+body{
+	background-color: purple;
+}
+P{
+	font-size: 40px;
+    color: #ff6534;
+    background-color: rgb(0,250, 154);
+}
+.first{
+	color: #fff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.second{
+	font-family: cursive;
+font-weight: 700;
+}
+.f1{
+	font-family: 'Rubik Moonrocks', cursive;
+}
+
+.f2{
+ font-family: 'Pacifico', cursive;
+}
+.f3{
+ font-family: 'Rubik Dirt', cursive;
+}

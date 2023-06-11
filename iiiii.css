@@ -1,0 +1,15 @@
+body{
+	background-color: darksalmon;
+}
+ul{
+	color: yellow;
+	font-size: 34px;
+}
+ul li::marker{
+	color: lavender;
+
+}
+
+ul li{
+ margin-left ;
+}	

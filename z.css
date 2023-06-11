@@ -1,0 +1,37 @@
+p{
+	font-size: 50px;
+	background-color: violet;
+	color: darkcyan;
+}
+
+table{
+	background-color: plum;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+
+}
+table{
+	border: dashed; 2px purple;
+	width: 50%;
+	font-size: 24px;
+	margin: auto;
+}
+th{
+	border: solid 1px violet;
+}
+tr:hover{
+	background-color: violet;
+}
+td:hover, th:hover{
+	background-image: url(https://media.tenor.com/UZswyok8T-oAAAAM/pride-rainbow.gif);
+color: darkcyan;}
+tr:nth-child(odd){
+	background-color: purple;
+}
+caption{
+	font-size: 50px;
+	color: darkcyan;
+	text-transform: uppercase;
+	background: linear-gradient(pink,plum,purple);
+}
